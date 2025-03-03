@@ -1,0 +1,49 @@
+2025-02-28 16:11:03,431 - Special key pressed: Key.shift_r
+2025-02-28 16:11:03,511 - Key pressed: W
+2025-02-28 16:11:03,964 - Key pressed: e
+2025-02-28 16:11:04,154 - Key pressed: l
+2025-02-28 16:11:04,665 - Key pressed: c
+2025-02-28 16:11:04,785 - Key pressed: o
+2025-02-28 16:11:04,896 - Key pressed: m
+2025-02-28 16:11:05,077 - Key pressed: e
+2025-02-28 16:11:06,699 - Special key pressed: Key.shift_r
+2025-02-28 16:11:06,995 - Key pressed: !
+2025-02-28 16:11:07,862 - Special key pressed: Key.enter
+2025-02-28 16:11:08,328 - Special key pressed: Key.shift_r
+2025-02-28 16:11:08,418 - Key pressed: T
+2025-02-28 16:11:08,630 - Key pressed: h
+2025-02-28 16:11:08,785 - Key pressed: i
+2025-02-28 16:11:08,918 - Key pressed: s
+2025-02-28 16:11:09,140 - Special key pressed: Key.space
+2025-02-28 16:11:09,477 - Key pressed: i
+2025-02-28 16:11:09,584 - Key pressed: s
+2025-02-28 16:11:09,708 - Special key pressed: Key.space
+2025-02-28 16:11:09,845 - Key pressed: m
+2025-02-28 16:11:10,075 - Key pressed: y
+2025-02-28 16:11:10,263 - Special key pressed: Key.space
+2025-02-28 16:11:10,434 - Key pressed: f
+2025-02-28 16:11:10,520 - Key pressed: i
+2025-02-28 16:11:10,628 - Key pressed: r
+2025-02-28 16:11:10,749 - Key pressed: s
+2025-02-28 16:11:10,851 - Key pressed: t
+2025-02-28 16:11:10,990 - Special key pressed: Key.space
+2025-02-28 16:11:11,372 - Key pressed: k
+2025-02-28 16:11:11,499 - Key pressed: e
+2025-02-28 16:11:11,609 - Key pressed: y
+2025-02-28 16:11:11,804 - Special key pressed: Key.space
+2025-02-28 16:11:11,986 - Key pressed: l
+2025-02-28 16:11:12,208 - Key pressed: o
+2025-02-28 16:11:12,447 - Key pressed: g
+2025-02-28 16:11:12,575 - Key pressed: g
+2025-02-28 16:11:12,709 - Key pressed: e
+2025-02-28 16:11:12,823 - Key pressed: r
+2025-02-28 16:11:12,976 - Special key pressed: Key.space
+2025-02-28 16:11:13,361 - Key pressed: p
+2025-02-28 16:11:13,525 - Key pressed: r
+2025-02-28 16:11:14,343 - Key pressed: o
+2025-02-28 16:11:14,532 - Key pressed: j
+2025-02-28 16:11:14,654 - Key pressed: e
+2025-02-28 16:11:14,854 - Key pressed: c
+2025-02-28 16:11:15,049 - Key pressed: t
+2025-02-28 16:11:15,436 - Key pressed: .
+2025-02-28 16:11:16,379 - Special key pressed: Key.esc
